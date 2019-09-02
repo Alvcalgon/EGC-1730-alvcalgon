@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Alvcalgon/EGC-1730-alvcalgon.svg?branch=master)](https://travis-ci.org/Alvcalgon/EGC-1730-alvcalgon)
+
 Plataforma voto electrónico educativa
 =====================================
 
